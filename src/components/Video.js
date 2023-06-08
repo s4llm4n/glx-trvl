@@ -11,14 +11,14 @@ const video = () => {
         <source src={spaceVideo} type="video/mp4" />
       </video>
       <div className="content">
-        <h1>Galaxy. Travel.</h1>
-        <p>World first civilian space Travel.</p>
+        <h1>Love. Code.</h1>
+        <p>Love to code, make something great.</p>
         <div>
           <Link to="/training" className="btn">
-            Training
+            Profile
           </Link>
           <Link to="/contact" className="btn btn-light">
-            Launch
+            Project
           </Link>
         </div>
       </div>
